@@ -23,7 +23,7 @@ export default function Editorspick() {
      {/* Men Image */}
      <div className="relative w-[48%] h-[300px] md:w-[510px]  md:h-[500px]">
        <Image
-         src="/men2.jfif"
+         src="/men.png"
         alt="men"
          width={170}
          height={170}
