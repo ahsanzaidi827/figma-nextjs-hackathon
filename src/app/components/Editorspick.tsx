@@ -24,7 +24,7 @@ export default function Editorspick() {
      <div className="relative w-[48%] h-[300px] md:w-[510px]  md:h-[500px]">
        <Image
          src="/men2.jfif"
-        alt=""
+        alt="men"
          width={170}
          height={170}
          className="w-full h-full  rounded-md"
